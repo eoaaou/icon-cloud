@@ -1,0 +1,40 @@
+[
+    {
+    "radius": 0,
+    "id": "pointer",
+    "image": "https://github.com/eoaaou/aboutme/blob/main/src/assets/images/mandala.gif?raw=true"
+    },  {
+    "radius": 50,
+    "id": "SVG",
+    "image": "https://github.com/eoaaou/aboutme/blob/main/src/assets/images/svg.png?raw=true"
+    },  {
+    "radius": 50,
+    "id": "HTML",
+    "image": "https://github.com/eoaaou/aboutme/blob/main/src/assets/images/html.png?raw=true"
+    },  {
+    "radius": 50,
+    "id": "Python",
+    "image": "https://github.com/eoaaou/aboutme/blob/main/src/assets/images/python.png?raw=true"
+    },  {
+    "radius": 50,
+    "id": "js",
+    "image": "https://github.com/eoaaou/aboutme/blob/main/src/assets/images/nodejs.png?raw=true"
+    },  {
+    "radius": 50,
+    "id": "OpenCV",
+    "image": "https://github.com/eoaaou/aboutme/blob/main/src/assets/images/opencv.png?raw=true"
+    },  {
+    "radius": 50,
+    "id": "SASS",
+    "image": "https://github.com/eoaaou/aboutme/blob/main/src/assets/images/sass.png?raw=true"
+    },  {
+    "radius": 50,
+    "id": "rasp",
+    "image": "https://github.com/eoaaou/aboutme/blob/main/src/assets/images/rasp.png?raw=true"
+    },  {
+    "radius": 50,
+    "id": "Vue",
+    "image": "https://github.com/eoaaou/aboutme/blob/main/src/assets/images/vue.png?raw=true"
+    }
+]
+  
