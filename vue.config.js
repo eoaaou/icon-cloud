@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/`icon-cloud/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/icon-cloud/" : "/",
   css: {
     loaderOptions: {
       sass: {
